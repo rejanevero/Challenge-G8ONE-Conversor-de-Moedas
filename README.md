@@ -1,4 +1,5 @@
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/78c29f35-ea36-495a-9d53-85d58e59f8ab" />
+<br>
 # 🔄 Challenge Conversor de Moedas
 
 Aplicação Java simples e funcional que realiza a conversão entre moedas utilizando uma API externa para obter taxas de câmbio atualizadas em tempo real. O projeto também mantém um histórico das conversões realizadas.
